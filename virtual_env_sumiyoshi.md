@@ -8,7 +8,7 @@
 ### Vagrantの導入
 
 - まずはゲストOSのbox(イメージファイル)をダウンロードします。
-```bash=
+```shell=
 $ vagrant box add centos/7
 ```
 
