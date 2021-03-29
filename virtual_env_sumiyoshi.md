@@ -402,7 +402,12 @@ php artisan migrate
 
 ## 参考サイト
 [Vagrant + VirtualBOx で 最新のCentOS7 vbox(centos/7 2004.01)でマウントできない問題](https://qiita.com/mao172/items/f1af5bedd0e9536169ae)
+
 [nginxのリポジトリを使用してnginxをインストール](https://www.server-memo.net/server-setting/nginx/nginx-repo.html#nginx)
+
 [CentOSなどで使う、Remi Repositoryってなんだ？](https://qiita.com/charon/items/6d34ae798e9b05e8bd0a)
+
 [【Laravel】「laravel-ui」について](http://www.code-magagine.com/?p=10606#:~:text=laravel%2Dui%E3%81%A8%E3%81%AF%EF%BC%9F,%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%AE%E4%BA%8B%E3%81%A7%E3%81%99%E3%80%82)
+
 [saharaのgithub](https://github.com/jedi4ever/sahara)
+
